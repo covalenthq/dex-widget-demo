@@ -23,11 +23,11 @@ jobs:
         node-version: 13.x
     
     - name: Install NPM packages
-          run: |
-            npm config set //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
-            npm ci
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        npm config set //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+        npm ci
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Build project
       run: npm run build
