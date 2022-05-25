@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dex-widget-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/dex-widget-demo/static/js/main.5edbe8be.js",
+    "static/js/787.6a9ffc95.chunk.js": "/dex-widget-demo/static/js/787.6a9ffc95.chunk.js",
+    "index.html": "/dex-widget-demo/index.html",
+    "main.e6c13ad2.css.map": "/dex-widget-demo/static/css/main.e6c13ad2.css.map",
+    "main.5edbe8be.js.map": "/dex-widget-demo/static/js/main.5edbe8be.js.map",
+    "787.6a9ffc95.chunk.js.map": "/dex-widget-demo/static/js/787.6a9ffc95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5edbe8be.js"
+  ]
+}
