@@ -31,6 +31,8 @@ jobs:
     
     - name: Build project
       run: npm run build
+      env:
+        REACT_APP_APIKEY: ${{ secrets.REACT_APP_APIKEY }}
 
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2

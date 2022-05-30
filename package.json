@@ -1,12 +1,10 @@
 {
   "name": "widget-app",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://covalenthq.github.io/dex-widget-demo",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.1",
-    "@chakra-ui/react": "^2.1.2",
-    "@covalenthq/dex-widget-react-library": "^0.1.5",
+    "@covalenthq/dex-widget-react-library": "^0.1.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@testing-library/jest-dom": "^5.16.4",
