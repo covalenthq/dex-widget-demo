@@ -5,6 +5,7 @@
   "dependencies": {
     "@chakra-ui/icons": "^2.0.1",
     "@chakra-ui/react": "^1.8.8",
+    "@chakra-ui/system": "^2.1.1",
     "@covalenthq/dex-widget-react-library": "^0.1.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
