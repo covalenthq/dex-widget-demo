@@ -4,6 +4,7 @@
   "homepage": "https://covalenthq.github.io/dex-widget-demo",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.1",
+    "@chakra-ui/react": "^1.8.8",
     "@covalenthq/dex-widget-react-library": "^0.1.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
